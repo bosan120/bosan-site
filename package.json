@@ -1,7 +1,7 @@
 {
   "name": "bosan-site",
   "version": "0.1.0",
-  "homepage": "https://tech-diary.work",
+  "homepage": "https://bosan120.github.io/bosan-site",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "npm run build && gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
