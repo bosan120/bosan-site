@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60458f2be91a33e21db7fc0b4ec1a379",
+    "revision": "c1b192920c5c3ee32dc66eafa9e268ca",
     "url": "/bosan-site/index.html"
   },
   {
-    "revision": "0d0371aca54662990212",
+    "revision": "566e218d971b712dac66",
     "url": "/bosan-site/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bosan-site/static/js/2.43213e79.chunk.js.LICENSE"
   },
   {
-    "revision": "0d0371aca54662990212",
-    "url": "/bosan-site/static/js/main.726e3e9e.chunk.js"
+    "revision": "566e218d971b712dac66",
+    "url": "/bosan-site/static/js/main.57eec9be.chunk.js"
   },
   {
     "revision": "3c4c26e47503950ebb47",

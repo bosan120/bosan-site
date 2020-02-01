@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bosan-site/static/css/main.d1b05096.chunk.css",
-    "main.js": "/bosan-site/static/js/main.726e3e9e.chunk.js",
-    "main.js.map": "/bosan-site/static/js/main.726e3e9e.chunk.js.map",
+    "main.js": "/bosan-site/static/js/main.57eec9be.chunk.js",
+    "main.js.map": "/bosan-site/static/js/main.57eec9be.chunk.js.map",
     "runtime-main.js": "/bosan-site/static/js/runtime-main.6ead5d61.js",
     "runtime-main.js.map": "/bosan-site/static/js/runtime-main.6ead5d61.js.map",
     "static/js/2.43213e79.chunk.js": "/bosan-site/static/js/2.43213e79.chunk.js",
     "static/js/2.43213e79.chunk.js.map": "/bosan-site/static/js/2.43213e79.chunk.js.map",
     "index.html": "/bosan-site/index.html",
-    "precache-manifest.dd3abfdf061eab97d91fe8099e2d84d4.js": "/bosan-site/precache-manifest.dd3abfdf061eab97d91fe8099e2d84d4.js",
+    "precache-manifest.c7b895e02db73db71af09058b38b9da3.js": "/bosan-site/precache-manifest.c7b895e02db73db71af09058b38b9da3.js",
     "service-worker.js": "/bosan-site/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/bosan-site/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.43213e79.chunk.js.LICENSE": "/bosan-site/static/js/2.43213e79.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6ead5d61.js",
     "static/js/2.43213e79.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.726e3e9e.chunk.js"
+    "static/js/main.57eec9be.chunk.js"
   ]
 }
