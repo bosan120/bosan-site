@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bosan-site/precache-manifest.bd3f0ac51815b01e39d440b1ce3a6ade.js"
+  "/bosan-site/precache-manifest.dd3abfdf061eab97d91fe8099e2d84d4.js"
 );
 
 self.addEventListener('message', (event) => {
