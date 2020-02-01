@@ -1,6 +1,6 @@
 {
-  "short_name": "bosan-site",
-  "name": "bosan-site",
+  "short_name": "bo-san site",
+  "name": "bo-san site",
   "icons": [
     {
       "src": "favicon.ico",
@@ -9,17 +9,12 @@
     },
     {
       "src": "bosan-icon.jpg",
-      "type": "image/jpg",
-      "sizes": "192x192"
-    },
-    {
-      "src": "bosan-icon.jpg",
-      "type": "image/jpg",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "type": "image/jpg"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#ffefba",
   "background_color": "#ffffff"
 }
