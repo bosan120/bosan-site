@@ -1,7 +1,7 @@
 {
   "name": "bosan-site",
   "version": "0.1.0",
-  "homepage": "https://tech-diary.work",
+  "homepage": "https://bosan120.github.io/bosan-site",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.0",

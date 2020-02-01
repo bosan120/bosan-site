@@ -6,7 +6,7 @@ const ResponsiveDrawer: React.FC = () => {
   return (
     <div>
       <AppBar position="fixed">
-        <Toolbar variant="dense">ボーさんのページ</Toolbar>
+        <Toolbar variant="dense">ボーさんのサイト</Toolbar>
       </AppBar>
     </div>
   );
