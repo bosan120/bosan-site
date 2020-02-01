@@ -1,6 +1,6 @@
 {
-  "short_name": "ネット速度計",
-  "name": "インターネット回線の速度をリアルタイムで！",
+  "short_name": "bo-san site",
+  "name": "bo-san site",
   "icons": [
     {
       "src": "favicon.ico",
@@ -9,7 +9,7 @@
     },
     {
       "src": "bosan-icon.jpg",
-      "sizes": "192x192",
+      "sizes": "150x150",
       "type": "image/jpg"
     }
   ],
